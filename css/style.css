@@ -31,7 +31,7 @@ z-index: 1;
 
 @font-face {
   font-family: LibreFranklin-Bold;
-  src: url("./fonts/static/LibreFranklin-Bold.ttf");
+  src: url("../fonts/static/LibreFranklin-Bold.ttf");
 }
 
 .header_links ul li {
@@ -53,7 +53,7 @@ z-index: 1;
 
 @font-face {
   font-family: Rodwick;
-  src: url("./fonts/Rodwick.otf");
+  src: url("../fonts/Rodwick.otf");
 }
 
 .header_logo p {
